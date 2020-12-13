@@ -8,12 +8,16 @@ class GeometricShape:
 
 
 class Square(GeometricShape):
-
     def __init__(self, a):
         self.a = a
 
     def calculate_field(self):
-        return self.a * self.a
+        try:
+            result = self.a * self.a
+        except TypeError:
+            print("Oops! That was no valid number.")
+
+        return result
 
 
 class Rectangle(GeometricShape):
