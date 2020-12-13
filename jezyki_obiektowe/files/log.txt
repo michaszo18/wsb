@@ -1,0 +1,1 @@
+2020-12-13 13:45:17.475542 - Select 3 - Result 55.41769440932395 - Obj <classes.Figures.Circle object at 0x0000028FA1875908>
