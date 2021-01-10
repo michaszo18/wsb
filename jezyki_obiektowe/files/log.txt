@@ -1,1 +1,5 @@
 2020-12-13 13:45:17.475542 - Select 3 - Result 55.41769440932395 - Obj <classes.Figures.Circle object at 0x0000028FA1875908>
+2021-01-10 11:36:10.672082 - Select 2 - Result 6.0 - Obj <lab_3_zad_1.Figures.Rectangle object at 0x00000254FF55A8C8>
+2021-01-10 11:37:29.528773 - Select 1 - Result None - Obj <lab_3_zad_1.Figures.Square object at 0x00000293B605A8C8>
+2021-01-10 11:37:39.359175 - Select 1 - Result None - Obj <lab_3_zad_1.Figures.Square object at 0x000002A5136AAE08>
+2021-01-10 11:39:16.023190 - Select 4 - Result 8.0 - Obj <lab_3_zad_1.Figures.Triangle object at 0x00000214BDF3A908>

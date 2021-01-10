@@ -29,7 +29,7 @@ class Menu:
 
     def get_result(self):
         if self.select == '1':
-            a = input("Podaj długość a: ")
+            a = float(input("Podaj długość a: "))
             geometric_shape = Square(a)
         elif self.select == '2':
             a = float(input("Podaj długość a: "))
